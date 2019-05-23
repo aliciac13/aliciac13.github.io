@@ -2,16 +2,16 @@
 % Alicia Contreras Rico
 % 2019
 
+
 # Sección I: La fotografía I
 
 ## Estudio
 
-Se estudiará con la [presentación de HTML5 con reveal.js](../1-fotografia1/fotografia1.html)
+Se estudiará con la **presentación de HTML5 con reveal.js**
 
 ## Introducción
 
 * Historia de la fotografía 
-
 
 ![Foto de intro](images0/foto1.png){ width=40% }\       
 
@@ -58,7 +58,7 @@ Se estudiará con la [presentación de HTML5 con reveal.js](../1-fotografia1/fot
 
 ## Estudio
 
-Esta parte se estudiarán los conceptos relacionados con la luz, con unos [apuntes en formato EPUB](../2-fotografia2/fotografia2.epub)
+Esta parte se estudiarán los conceptos relacionados con la luz, con unos **apuntes en formato EPUB**
 
 ## Propiedades de la luz
  
@@ -90,7 +90,7 @@ Esta parte se estudiarán los conceptos relacionados con la luz, con unos [apunt
 
 ## Estudio
 
-Esta sección se estudiará con una [presentación creada con Beamer](../3-imagendigital/imagendigital.pdf) 
+Esta sección se estudiará con una **presentación creada con Beamer**, *la imagen digital*
 
 ## Elementos de la imagen
         
@@ -109,6 +109,8 @@ Esta sección se estudiará con una [presentación creada con Beamer](../3-image
 * Transparencia 
 	* Transparencia Simple
 	* Transparencia de canal alfa
+
+Más información [**aquí** ](https://www.fotonostra.com/grafico/rgb.htm)
 
 ## La Imagen
 
@@ -131,7 +133,7 @@ Conversión entre formatos raster y vectorial
 
 ## Estudio
 
-Se estudiará con una [presentación creada con Beamer](../4-photoshop/photoshop.pdf)
+Se estudiará con una **presentación creada con Beamer**, *Photoshop*
 
 ## Introducción
 
@@ -165,15 +167,17 @@ Se estudiará con una [presentación creada con Beamer](../4-photoshop/photoshop
 
 ## Estudio
 
-Se presentarácon un [documento en pdf](../5-practica/practica.pdf)
+Se presentarácon un **documento en pdf**
 
-## Cuestionario de autoevaluación
+## Cuestionario de evaluación
 
 + Breve cuestionario en el que se evalaurán los conocimentos teóricos estudiados a lo largo del curso
 
 ## Creación de un portfolio
 
 + Es el momento de poner en práctica lo aprendido. Se deberá realiar un portfolio que incluyan diferentes variedades de temas fotografiados 
+
+[Ideas de diferentes motivos para elaborar un portfolio original](https://www.dzoom.org.es/el-agua-como-motivo-fotografico/)   
 
 ## Participación en un concurso
 
